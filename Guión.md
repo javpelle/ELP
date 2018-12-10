@@ -1,17 +1,19 @@
-<!---Vamos a recopilar información de caracter divulgativa sobre Aragon, para más adelante hacer el guión del video. --->
-
 # Introducción:
 
-¿Quieres iniciar una aventura empresarial y no sabes cómo? ¿No tienes financiación o no encuentras a colaboradores interesados en tu proyecto? Pues atento porque tal vez encuentres en este vídeo la solución a tu problema.
+¿Tienes una idea, quieres iniciar una aventura empresarial y no sabes cómo? ¿No tienes financiación o no encuentras a colaboradores interesados en tu proyecto? Pues atento porque tal vez encuentres en este vídeo la solución a tu problema.
 
-¿Te suenan las tan famosas palabras *blockchain* o *smart contract*? Pues gracias a estas tecnologías 
+¿Te suenan las tan famosas palabras *blockchain* o *smart contract*? Pues gracias a estas tecnologías puedes crear una Organización Descentralizada Autónoma, DAO por sus siglas en inglés y lo mejor de todo de una manera sencilla y sin conocimiento previo del funcionamiento interno de la *blockchain*.
 
+En este vídeo te vamos a contar qué es una DAO, hablaremos sobre Aragon, una herramienta para la creaciacón de estas organizaciones y acerca de las funcionalidades que tenemos disponibles con dicha herramienta.
 
-Por primera vez en la historia, gracias a la teconología blockchain y los contratos inteligentes, podemos crear
-organizaciones descentralizadas completas y autónomas.
-Aragon es un herramienta que permite crear y gestionar Organizaciones Descentralizadas Autónomas (DAO por sus siglas en inglés) de manera sencilla y sin un conocimiento previo del funcionamiento interno de la blockchain.
+<!--- 32 segundos hasta aquí aprox.--->
 
 # Motivación:
+
+Aragon es una aplicación que funciona sobre la *blockchain* de *Ethereum*. Si no sabes mucho sobre el tema te animamos a que busques un poco de información sobre el tema, pero no te preocupes si no sabes
+
+
+
 Desde Aragon creen firmemente que la humanidad debe usar la tecnología como una herramienta liberadora para desatar todo el potencial creativo de nuestra especie, y no como un metódo para oprimir y controlar. 
 
 Las organizaciones tradicionales tienen un sobrepresupuesto dedicado únicamente a gastos administrativos y generales. Además, cuando realizan una transacción con otra organización, se ecuentran con tasas extras, retrasos, intermediarios ... Esto supone un malestar en la economía de la organización. La visión de Aragon es eliminar esta fricción mediante organizaciones descentralizadas que operan en una plataforma compartida.
