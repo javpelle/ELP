@@ -28,7 +28,15 @@ Basta de perder tiempo en procesos burocráticos estatales y con otras organizac
 
 # Explicar un poco que es una DAO en general:
 
-Pero entonces, ¿qué es una DAO? Es complicado explicar qué es, es más, no hay consenso acerca de una definición exacta y la complejidad de explicarlo se agrava sin un conocimiento sobre *blokchain*. Así que nos 
+Pero entonces, ¿qué es una DAO? Es complicado explicar qué es, es más, no hay consenso acerca de una definición exacta y la complejidad de explicarlo se agrava sin un conocimiento sobre *blokchain*. Así que lo que vamos a ver son algunas diferencias con una empresa convencional.
+
+* Supongamos que una empresa A quiere realizar una transacción a una empresa B por un bien o por un trabajo realizado. Esta transacción no es directa, si no que hay otras organizaciones centralizadas y ajenas a A y B que toman parte en ella, por ejemplo: Bancos, el Estado, e incluso si es una operación muy importante, notarios,  otras empresas gestoras e incluso abogados que median ambas partes. Por supuesto, sobra decir que este tipo de operaciones suponen una cantidad muy elevada de tiempo y dinero. ¿Cómo se soluciona esto con DAO's? Bien, volvamos un poco atrás.
+Supongamos que una DAO A quiere realizar una transacción a una DAO B por un bien o por un trabajo realizado. Pues ya está, ¡transacción realizada! Directa, rápida y a un precio ridículo... ¿Pero cómo aseguramos que esto sea seguro? ¿Y si A trata de timar a B? ¿Y si el trabajo de B que prometió a A no es lo que aseguró?
+Es aquí donde entran los **Contratos inteligentes**, o en inglés ***Smart Contracts***,un programa informático que ejecutan A, B y no sólo ellos también las DAO's C, D, E ... y en el caso de Ethereum, muuchos más dispositvos que verificarán que el contrato se cumple de acuerdo a lo establecido. ¡Sin trampa ni cartón! ¡Imposible engañar a una comunidad entera!
+
+
+<!--- 2min 30 seg aprox. hasta aquí sin contar una posible cabecera. --->
+* 
 
 # Principales funcionalidades:
 
