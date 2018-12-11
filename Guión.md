@@ -2,7 +2,7 @@
 
 ¿Tienes una idea, quieres iniciar una aventura empresarial y no sabes cómo? ¿No tienes financiación o no encuentras a colaboradores interesados en tu proyecto? Pues atento porque tal vez encuentres en este vídeo la solución a tu problema.
 
-¿Te suenan las tan famosas palabras *blockchain* o *smart contract*? Pues gracias a estas tecnologías puedes crear una Organización Descentralizada Autónoma, DAO por sus siglas en inglés y lo mejor de todo de una manera sencilla y sin conocimiento previo del funcionamiento interno de la *blockchain*.
+¿Te suenan las tan famosas palabras *blockchain* o *smart contract*? Pues gracias a estas tecnologías puedes crear una Organización Descentralizada Autónoma, DAO por sus siglas en inglés y lo mejor de todo, de una manera sencilla y sin conocimiento previo del funcionamiento interno de la *blockchain*.
 
 En este vídeo te vamos a contar qué es una DAO, hablaremos sobre Aragon, una herramienta para la creaciacón de estas organizaciones y acerca de las funcionalidades que tenemos disponibles con dicha herramienta.
 
@@ -10,20 +10,29 @@ En este vídeo te vamos a contar qué es una DAO, hablaremos sobre Aragon, una h
 
 # Motivación:
 
-Aragon es una aplicación que funciona sobre la *blockchain* de *Ethereum*. Si no sabes mucho sobre el tema te animamos a que busques un poco de información sobre el tema, pero no te preocupes si no sabes
+<!--- ¿Algún tipo de cabecera?--->
 
+Aragon es una aplicación que funciona sobre la *blockchain* de *Ethereum*. Si no sabes mucho sobre el tema te animamos a que busques un poco de información, pero no te preocupes, no tienes que saber nada para continuar con el vídeo.
 
+Los creadores de Aragon, inspirados en sus propias experiencias personales, estaban preocupados por todas aquellas grendes ideas que no pueden ser desarrolladas por impedimentos económicos o administrativos.
 
-Desde Aragon creen firmemente que la humanidad debe usar la tecnología como una herramienta liberadora para desatar todo el potencial creativo de nuestra especie, y no como un metódo para oprimir y controlar. 
+Se direon cuenta de que en muchos casos las herramientas tecnológicas se convierten en métodos opresivos y controladores de los usuarios en vez una ayuda para liberar todo el potencial creativo del usuario, de que las organizaciones tradicionales destinan grandes presupuestos únicamente a gastos administrativos y del tiempo perdido al realizar cualquier transacción con otras organizaciones.
 
-Las organizaciones tradicionales tienen un sobrepresupuesto dedicado únicamente a gastos administrativos y generales. Además, cuando realizan una transacción con otra organización, se ecuentran con tasas extras, retrasos, intermediarios ... Esto supone un malestar en la economía de la organización. La visión de Aragon es eliminar esta fricción mediante organizaciones descentralizadas que operan en una plataforma compartida.
+Al no haber ningún tipo de vía de escape de este **antiguo** mundo empresarial costoso e ineficiente se lanzaron a buscar una solución. Y así surge **Aragon**.
 
-Con las entidades tradicionales, llevar a cabo cambios pequeños en el entorno de una persona (una ciudad, una pequeña empresa...) requiere de un proceso burocrático opaco y tedioso. Esto es debido al alto coste de organización del *mundo antiguo*. Además, si uno no está de acuerdo con este anticuado proceso gubernamental, no hay una vía de escape sencilla. Algunas organizaciones controlan tu identidad (gobiernos), o tus datos (facebook). Es por ello que Aragon realiza el esfuerzo de ofrecer organizaciones que otorguen auto-soberanía y que permita al usuario salir con mínima fricción de estas.
+Basta de trabajar y derrochar para tu organización, ahora tu organización trabajará para ti.
 
- <!--- Aqui podemos rellenar con más cosas de intensitos, que siempre gustan --->
+Basta de perder tiempo en procesos burocráticos estatales y con otras organizaciones, ahora las organizaciones descentralizadas operarán en una plataforma compartida haciendo cada intercambio de información o bienes instantáneo. Bienvenido al nuevo mundo empresarial.
+
+<!--- 1min 20 seg aprox. hasta aquí sin contar una posible cabecera. --->
+
+# Explicar un poco que es una DAO en general:
+
+Pero entonces, ¿qué es una DAO? Es complicado explicar sin un conocimiento sobre *blokchain* así que nos 
 
 # Principales funcionalidades:
-Vamos a analizar las principales herramientas que nos ofrece Aragon:
+
+Volvamos con Aragon, ¿qué herramientas nos proporciona para nuestra organización? Para empezar lo primero que podemos hacer es **crear nuestra organización**
 * **Crear Organización:**  
 * **Sistema de democracia (votos):**
 
