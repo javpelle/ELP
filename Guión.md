@@ -28,7 +28,7 @@ Basta de perder tiempo en procesos burocráticos estatales y con otras organizac
 
 # Explicar un poco que es una DAO en general:
 
-Pero entonces, ¿qué es una DAO? Es complicado explicar sin un conocimiento sobre *blokchain* así que nos 
+Pero entonces, ¿qué es una DAO? Es complicado explicar qué es, es más, no hay consenso acerca de una definición exacta y la complejidad de explicarlo se agrava sin un conocimiento sobre *blokchain*. Así que nos 
 
 # Principales funcionalidades:
 
