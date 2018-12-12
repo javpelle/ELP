@@ -34,14 +34,22 @@ Pero entonces, ¿qué es una DAO? Es complicado explicar qué es, es más, no ha
 Supongamos que una DAO A quiere realizar una transacción a una DAO B por un bien o por un trabajo realizado. Pues ya está, ¡transacción realizada! Directa, rápida y a un precio ridículo... ¿Pero cómo aseguramos que esto sea seguro? ¿Y si A trata de timar a B? ¿Y si el trabajo de B que prometió a A no es lo que aseguró?
 Es aquí donde entran los **Contratos inteligentes**, o en inglés ***Smart Contracts***,un programa informático que ejecutan A, B y no sólo ellos también las DAO's C, D, E ... y en el caso de Ethereum, muuchos más dispositvos que verificarán que el contrato se cumple de acuerdo a lo establecido. ¡Sin trampa ni cartón! ¡Imposible engañar a una comunidad entera!
 
+* Imagina ahora que estás finalizando tus estudios o eres un recién graduado con un montón de buenas ideas en tu cabeza, tal vez sea tu caso y no hayas tenido que forzar mucho tu imaginación. Te gustaría trabajar para ti mismo pero sabes que necesitas mucho dinero, tiempo y esfuerzo además de asumir un riesgo demasiado elevado. 
+¡Ten en cuenta que el 98% de las StarUps fracasan en los primeros 2 años!
+El simple hecho de formar una sociedad requiere bastante dinero y conocimientos que tal vez no tengas. Incluso crear una DAO por tu cuenta requiere unos conocimientos informtáticos muy avanzados, pero con ***Aragon** es tan simple como hacer unos cuantos clics. ¿Tienes algunas dudas sobre la legalidad de todo esto? pues no te preocupes, Aragon tiene un equipo legal a tu disposición.
 
-<!--- 2min 30 seg aprox. hasta aquí sin contar una posible cabecera. --->
-* 
+* Y lo mejor de todo, no te preocupes de servidores y demás *Hardware* y *Software* costoso, ¡tu organización está descentralizada en la red de ***Ethereum***!
+
+<!--- 3min 10 seg aprox. hasta aquí sin contar una posible cabecera. ---> 
+
+# Y entonces, ¿qué es Aragon?
+
+Y entonces, ¿qué es Aragon? Podemos resumirlo en que es una DAO que funciona sobre la *blockchain* de ***Ethereum*** que se dedica gestionar otras DAO's que pueden crear sus usuarios, pero esta creación es totalmente transparente al usuario, ¡digamos que todo el trabajo duro sobre ***Ethereum*** ya lo ha hecho Aragon por ti!
 
 # Principales funcionalidades:
 
-Volvamos con Aragon, ¿qué herramientas nos proporciona para nuestra organización? Para empezar lo primero que podemos hacer es **crear nuestra organización**
-* **Crear Organización:**  
+¿Y qué podemos hacer con Aragon a parte de crear nuestra organización?
+
 * **Sistema de democracia (votos):**
 
 Para asegurar la máxima transparencia y descentralización, todo cambio dentro de la organización va sometida a votación. Pueden ser tanto cambios internos a la organización (como nueva asignación de tokens, roles, cambios en el funcionamiento democrático ...) o acciones relacionadas con la actividad propia de la empresa (toma de decisiones, inversiones)...  
