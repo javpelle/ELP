@@ -16,7 +16,7 @@ Aragon es una aplicación que funciona sobre la *blockchain* de *Ethereum*. Si n
 
 Los creadores de Aragon, inspirados en sus propias experiencias personales, estaban preocupados por todas aquellas grendes ideas que no pueden ser desarrolladas por impedimentos económicos o administrativos.
 
-Se direon cuenta de que en muchos casos las herramientas tecnológicas se convierten en métodos opresivos y controladores de los usuarios en vez una ayuda para liberar todo el potencial creativo del usuario, de que las organizaciones tradicionales destinan grandes presupuestos únicamente a gastos administrativos y del tiempo perdido al realizar cualquier transacción con otras organizaciones.
+Se direon cuenta de que en muchos casos las herramientas tecnológicas se convierten en métodos opresivos y controladores de los usuarios en vez una ayuda para liberar todo el potencial creativo, de que las organizaciones tradicionales destinan grandes presupuestos únicamente a gastos administrativos y del tiempo perdido al realizar cualquier transacción con otras organizaciones.
 
 Al no haber ningún tipo de vía de escape de este **antiguo** mundo empresarial costoso e ineficiente se lanzaron a buscar una solución. Y así surge **Aragon**.
 
@@ -50,38 +50,30 @@ Y entonces, ¿qué es Aragon? Podemos resumirlo en que es una DAO que funciona s
 
 ¿Y qué podemos hacer con Aragon a parte de crear nuestra organización?
 
-* **Sistema de democracia (votos):**
+Pues Aragon nos propone diversas funcionalidades adicionales como un **Sistema de democracia basado en votos** para asegurar la máxima transparencia y descentralización. Todo cambio dentro de la organización va sometida a votación. Pueden ser tanto cambios internos a la organización o acciones relacionadas con la actividad propia de la empresa.
 
-Para asegurar la máxima transparencia y descentralización, todo cambio dentro de la organización va sometida a votación. Pueden ser tanto cambios internos a la organización (como nueva asignación de tokens, roles, cambios en el funcionamiento democrático ...) o acciones relacionadas con la actividad propia de la empresa (toma de decisiones, inversiones)...  
-* **Crear Tokens y Asignarlos:** 
-  
-Dentro de una organización podemos crear tokens propios a la organización, y asignarlos. Estos tokens son personalizables, y por tanto podemos modificar sus propiedades, como la fuerza de voto o económica que otorgan. Aquellos integrantes que tengan un rol adecuado puede asignar estos tokens a los diferentes individuos de la organización, pero siempre bajo sufragio, cumpliendo las reglas de votación establecidas por la propia organización. El peso en la votación que tiene cada individuo viene determinada por la posesiones de tokens.
+Podemos además, **Crear Tokens personalizables** designando sus propiedades a nuestro gusto y asignarlos a miembros de la organización para otorgarles fuerza de voto o económica, por ejemplo. Eso sí, estas asignaciones están siempre bajo sufragio, cumpliendo las reglas de votación establecidas por la propia organización.
 
-* **Gestión de permisos y roles:**
-Como en toda organización, las DAO tienen diferentes roles que podemos definir al crear la organización. Cada rol tendrá sus propios permisos para ejecutar ciertas acciones. Sin embargo, como ya se ha mencionado antes, todas las decisiones son transpartentes y sometidas a votos. 
-Estos roles se pueden cambiar, para todos los integrantes, pero de nuevo, bajo sufragio.
+Podemos **gestionar permisos y roles** como en cualquier organización. En las DAO's creadas en Aragon se pueden designar diferentes roles, cada uno con sus permisos, a nuestros miembros. Cada permiso permite ejecutar ciertas acciones. Como siempre, esta gestión es transparente y sometida a voto. 
 
+¿Quieres utilizar **Módulos externos**? ¡También puedes! Para conseguir la máxima flexibilidad y personalización posibles para cada organización, Aragon permite la utiliación de módulos externos que otorguen más funcionalidades, como **Liquid Democracy** (que permite delegar tu poder de votación en otros individuos) o **Espresso** (para encriptamiento y distribución de datos dentro de la organización).
 
-* **Finanzas transparentes:**
+Y lo mejor, todas las **Finanzas son transparentes**. Contamos con una herramienta dedicada única y exclusívamente a mostrar cada moviento y transacción que se ha realizado dentro de la organización. ¡Imposible ser más transparentes :)!
 
-Aragon cuenta con herramienta dedicada única y exclusívamente a mostrar cada moviento y transacción que se ha realizado dentro de la organización, para de esta manera otorgar la máxima transparencia posible.
-* **Módulos**
-
-Para conseguir la máxima flexibilidad y personalización posibles para cada organización, Aragon permite la utiliación de módulos externos que otorguen más funcionalidades, como **Liquid Democracy** (que permite delegar tu pode de votación en otros individuos) o **Espresso** (para encriptamiento y distribución de datos dentro de la organización).
-
-
-
+<!---Alrededor de 5 minutos--->
+ 
 # Ejemplos de uso:
-<!---Los he sacado de DaoStack, pero se pueden hacer igual con Aragon--->
 
-La cantidad de usos no tiene limite. Podemos usar Aragon para proyectos colaborativos:
-* Un proyecto cinematográfico de miles de artistas.
-* Una cadena de noticias colaborativa con millares de periodistas alrededor de todo el mundo.
+¿Todo esto te parece algo futurista? Pues ya hay un montón de DAO's funcionando en el mundo. Algunas de ellas han tenido inversiones millonarias en sus primeros minutos de vida, como la propia Aragon.
 
-Gestion de inversiones en una entidad:
-* Inversiones Inmobiliarias colectivas.
-* Fondos de capital de riesgo.
+* Imagina una organización de noticias colaborativa con millares de periodistas alrededor de todo el mundo, cada uno trabajando desde su casa donde las noticias son enviadas y verificadas por la red.
 
+* O montar tu propia ONG para recaudar fondos para alguna causa en la que estés involucradEEE
 
-O incluso para temas cotidianos como:
-* Guías de restaurantes
+* O una organización que gestione las inversiones en una entidad, facilitando así Inversiones Inmobiliarias colectivas o Fondos de capital de riesgo.
+
+* Incluso puedes formar una organización para gestionar una aplicación más cotidiana de guías de restaurantes con valoraciones verificadas, transparente ¡y justa con los propietarios!
+
+Todo esto son ejemplos compatibles con Aragon, algunos ya están funcionando pero, ¡¿**qué quieres aportar tú?**!
+
+<!---Alrededor de 6 minutos--->
