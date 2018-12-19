@@ -4,8 +4,7 @@
 
 ¿Te suenan las tan famosas palabras *blockchain* o *smart contract*? Pues gracias a estas tecnologías puedes crear una Organización Descentralizada Autónoma, DAO por sus siglas en inglés y lo mejor de todo, de una manera sencilla y sin conocimiento previo del funcionamiento interno de la *blockchain*.
 
-En este vídeo te vamos a contar qué es una DAO, hablaremos sobre Aragon, una herramienta para la creaciacón de estas organizaciones y acerca de las funcionalidades que tenemos disponibles con dicha herramienta.
-
+En este vídeo te vamos a contar qué es una DAOy hablaremos sobre Aragon, una herramienta para la creaciacón de dichas organizaciones.
 <!--- 32 segundos hasta aquí aprox.--->
 
 # Motivación:
